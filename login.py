@@ -78,7 +78,7 @@ class Login():
         label_me.place(relx=0.26, rely=0.75)
         #label_me1 = Label(self.login, text="班级：自实1901", font=("楷体", 15))
         #label_me1.place(relx=0.26, rely=0.82)
-        label_me2 = Label(self.login, text="作者qq：2675319752", font=("楷体", 15))
+        label_me2 = Label(self.login, text="作者qq：100983689", font=("楷体", 15))
         label_me2.place(relx=0.26, rely=0.84)
         time.strftime("%H:%M:%S")
         self.label_time = Label(self.login, text=" ", fg="blue", font=("楷体", 20))
